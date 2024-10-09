@@ -1,0 +1,75 @@
+body {
+    background-image: url("kepek/dirt.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+#log {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    width: 50%;
+}
+
+#logo {
+  display: flexbox;
+    width: 50%;
+    height: 50%;
+
+}
+
+
+p {    
+    width: auto;
+    color: 	#C4A484;         
+    background-color: 	#5C4033;
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#derrick{
+    width: 50%;
+    height: 50%;
+}
+
+#ir{
+    margin: auto;
+    width: 60%;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#derrickvid {
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    font-family:cursive;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+th {
+    background-color: orange;
+    color: 	black;  
+}
+tr {
+    color: 	#C4A484;  
+    background-color: #5C4033;
+}
